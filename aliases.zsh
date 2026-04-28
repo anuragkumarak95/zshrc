@@ -14,5 +14,8 @@ alias nv="nvim"
 # kubectl aliases
 alias k="kubectl"
 
+# weather
+alias mausam="curl -s 'wttr.in/{bangalore,delhi,ooty}?format=4'"
+
 # brew aliases
 alias b="brew"
